@@ -1,0 +1,12 @@
+C:\Users\Asus\rust\spotify-Api\target\debug\deps\tracing-e44929c1ed24fcc8.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\macros.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\dispatcher.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\field.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\instrument.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\level_filters.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\span.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\subscriber.rs
+
+C:\Users\Asus\rust\spotify-Api\target\debug\deps\libtracing-e44929c1ed24fcc8.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\macros.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\dispatcher.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\field.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\instrument.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\level_filters.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\span.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\subscriber.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\macros.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\dispatcher.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\field.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\instrument.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\level_filters.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\span.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tracing-0.1.43\src\subscriber.rs:
